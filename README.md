@@ -1,6 +1,6 @@
-[www.markdowntutorial.com](www.markdowntutorial.com)
+[www.markdowntutorial.com](https://www.markdowntutorial.com)
 
-[www.markdownguide.org/basic-syntax](www.markdownguide.org/basic-syntax)
+[www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax)
 
 [markdownlivepreview.com/](https://markdownlivepreview.com)
 
