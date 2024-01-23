@@ -1,8 +1,8 @@
-www.markdowntutorial.com/ 
+[markdownlivepreview.com/](www.markdowntutorial.com)
 
-www.markdownguide.org/basic-syntax/
+[markdownlivepreview.com/](www.markdownguide.org/basic-syntax)
 
-[markdownlivepreview.com/](https://markdownlivepreview.com/)
+[markdownlivepreview.com/](https://markdownlivepreview.com)
 
 
 # aA 
