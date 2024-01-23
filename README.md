@@ -1,3 +1,10 @@
+www.markdowntutorial.com/ 
+
+www.markdownguide.org/basic-syntax/
+
+[markdownlivepreview.com/](https://markdownlivepreview.com/)
+
+
 # aA 
 ## aA
 ### aA
@@ -8,9 +15,10 @@
 
 **bold**  __also  bold__
 
-* item
+* dot
 3. Item
     2. Item
+      4. item
 
 ![abcxyz](https://www.kasandbox.org/programming-images/avatars/duskpin-sapling.png)
 
